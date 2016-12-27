@@ -10,7 +10,7 @@ description: An egocentric website
 external-image: false
 picture: assets/images/profile.jpg
 
-url: https://gorbyy.github.io/
+url: https://gorbyy.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -82,10 +82,10 @@ related: true
 blog-nav-links: false
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false
 
 # do you want some animations?
-animation: true
+animation: false
 
 sass:
     sass_dir: _sass
