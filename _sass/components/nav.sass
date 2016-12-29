@@ -1,11 +1,14 @@
 .nav,
 .nav-home
+    margin-top: 20px
+    text-align: center
 
     > .list
         list-style: none
         margin: 0
         padding: 0 13px 20px
         border-bottom: 1px solid $epsilon
+        position: relative
 
         &:before
             display: block
@@ -14,7 +17,7 @@
             height: 7px
             border: $epsilon 1px solid
             position: absolute
-            bottom: 5px
+            bottom: -5px
             left: 50%
             margin-left: -5px
             background: #FFF
@@ -25,32 +28,7 @@
             display: inline-block
 
         > .item > .link
-            display: inline-block
             font-weight: 300
-            font-size: 1.4rem
-            padding: 20px 10px
-            text-decoration: none
-
-.nav
-    position: absolute
-    right: 0
-    top: 0
-
-    > .list
-        padding: 0 13px 0
-
-        > .item > .link
-            font-size: 1.4rem
-            padding: 20px 10px
-
-.nav-home
-    margin-top: 20px
-    text-align: center
-
-    > .list
-        padding: 0
-
-        > .item > .link
             font-size: 2rem
             padding: 7px 15px
             margin: 0
