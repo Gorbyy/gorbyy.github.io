@@ -11,7 +11,7 @@ title: Home
 	        {% include blog-post.html %}
 	    {% endfor %}
 
-		{% if site.paginate %}
+		{% if site.paginate && paginator.total_pages > 1 %}
 			{% include pagination.html%}
 		{% endif %}
 	{% else %}
