@@ -1,4 +1,5 @@
 ---
+hidden: true
 title: "Markdown Extra Components"
 layout: post
 date: 2016-02-24 22:48
@@ -11,6 +12,7 @@ tag:
 blog: true
 author: goncalo
 description: Markdown summary with different options
+custom_url: https://medium.com/@GoncaloRN/the-day-i-said-no-to-a-big-four-46d4c662f5fa
 ---
 
 ## Summary:
