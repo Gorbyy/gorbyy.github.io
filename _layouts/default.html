@@ -13,7 +13,16 @@ layout: compress
     <meta name=author content="{{ site.name }}">
 
     {% seo title=false %}
-    <title>GRN | {{ page.title }} </title>
+    {% if page.title == "Home" %}
+        <title>Gonçalo Rodrigues Nunes</title>
+    {% else %}
+        {% if page.title == "About" %}
+        <title>About GRN</title>
+        {% else %}
+        <title>{{ page.title }} - GRN</title>
+        {% endif %}
+    {% endif %}
+
     {% include favicon.html %}
 
     <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
