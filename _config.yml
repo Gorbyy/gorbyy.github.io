@@ -1,3 +1,6 @@
+#jekyll-seo-tag gem variables
+title: GRN
+
 # main text of home
 name: Gonçalo Rodrigues Nunes
 bio: Aspiring entrepreneur and almost Electrical and Computer Engineer. A human in the making.
@@ -48,7 +51,7 @@ email: goncalornunes@gmail.com
 authors:
     goncalo:
         name: Gonçalo Rodrigues Nunes
-        bio: Aspiring entrepreneur and almost Electrical and Computer Engineer
+        bio: Aspiring entrepreneur and almost Electrical and Computer Engineer. A human in the making.
         external-image: false
         picture: assets/images/profile.jpg
         twitter: GoncaloRN
