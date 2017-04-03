@@ -31,7 +31,7 @@ During the last year of college I sent dozens of CVs and met many different comp
 
 ### Choice
 
-I had several offers, including one from a Big Four. I simply had to say **_NO_**. It wasn’t the more compelling, it wasn’t the more exciting and it wasn’t even the best paid. I took an offer from a startup where it didn’t feel like I’d just be buying time. It was the best decision I ever made and the job fits me like a glove.
+I had several offers, including one from a Big Four. I simply had to say **_NO_**. It wasn’t the more compelling, it wasn’t the more exciting and it wasn’t even the best paid. I took an offer from a [startup](https://onfido.com/) where it didn’t feel like I’d just be buying time. It was the best decision I ever made and the job fits me like a glove.
 
 My role is Product Support Engineer. That means I work more or less as an intermediator between the technology we build and the people that use it, being them clients or colleagues from non-technological teams. This gives me great exposure to lots of different areas of the business and it allows me to learn more than I would in a Big Four, where processes are much more bounded. I also have the freedom to carve out a path and find a better way of doing things. I can be more creative and have more ownership of my work than I would have elsewhere. What I appreciate the most about our culture is that it’s really collaborative — everyone’s an expert in their field and, despite being a group of over 150 people across 3 countries, I have contact with everyone from the receptionist to the co-founders, working cross-functionally to solve real business problems.
 
