@@ -17,6 +17,8 @@ description: The day I said NO to a Big Four
 custom_url: https://medium.com/@GoncaloRN/the-day-i-said-no-to-a-big-four-46d4c662f5fa
 ---
 
+![No Big Four](http://grn.pt/assets/images/no_big_four.png)
+
 Every year tons of college graduates debate with relatives and friends about what should be their first steps into the job market. Except for a very small handful, here in Portugal the majority of engineering grads will end up with a consultancy company, most probably a [Big Four](https://en.wikipedia.org/wiki/Big_Four_accounting_firms). I don’t condemn this, however, there are more options available to those willing to pursue them.
 
 The phenomenon is explained by people’s laziness. Through my entire senior year I was applying to numerous jobs, attending interviews and starting my first company. On the other hand, my fellow colleagues were going to interviews only because they got contacted by recruiters through LinkedIn or via university mailing lists. The job offers they were applying to came only from big companies. After all, they are the ones that have the money to invest in recruitment campaigns for the masses.
@@ -27,7 +29,7 @@ As an electrical and computer engineer, I was not sure about the professional pa
 
 During the last year of college I sent dozens of CVs and met many different companies. In the end, I was pretty comfortable at job interviews and felt like I could show my value to anyone. The result of that was…
 
-###Choice
+### Choice
 
 I had several offers, including one from a Big Four. I simply had to say **_NO_**. It wasn’t the more compelling, it wasn’t the more exciting and it wasn’t even the best paid. I took an offer from a startup where it didn’t feel like I’d just be buying time. It was the best decision I ever made and the job fits me like a glove.
 
