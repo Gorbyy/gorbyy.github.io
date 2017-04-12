@@ -1,20 +1,27 @@
 ---
-hidden: false
+date: 2017-04-03 13:48
 title: "The day I said NO to a Big Four"
-layout: post
-date: 2017-04-03 22:48
-image: /assets/images/no_big_four.png
-headerImage: false
+
+description: "Every year tons of college graduates debate with relatives and friends about what should be their first steps into the job market."
+
 tag:
-- startup
+- startups
 - portugal
 - college
 - tech
-- life lessons
-blog: true
-author: goncalo
-description: The day I said NO to a Big Four
+- lifelessons
+
 custom_url: https://medium.com/@GoncaloRN/the-day-i-said-no-to-a-big-four-46d4c662f5fa
+
+author: goncalo
+hidden: false # don't count this post in blog pagination
+layout: post
+blog: true
+image: /assets/images/no_big_four.png
+headerImage: false
+projects: false
+externalLink: false
+star: false
 ---
 
 ![No Big Four](http://grn.pt/assets/images/no_big_four.png)
