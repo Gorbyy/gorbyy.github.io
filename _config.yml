@@ -3,10 +3,10 @@ title: GRN
 
 # main text of home
 name: Gonçalo Rodrigues Nunes
-bio: Aspiring entrepreneur and almost Electrical and Computer Engineer. A human in the making.
+bio: Aspiring entrepreneur and Electrical and Computer Engineer. A human in the making.
 
 # twitter summary info
-description: Aspiring entrepreneur and almost Electrical and Computer Engineer. A human in the making.
+description: Aspiring entrepreneur and Electrical and Computer Engineer. A human in the making.
 
 # if it's an external image, update below for true
 # better with square images
@@ -51,7 +51,7 @@ email: goncalo@grn.pt
 authors:
     goncalo:
         name: Gonçalo Rodrigues Nunes
-        bio: Aspiring entrepreneur and almost Electrical and Computer Engineer. A human in the making.
+        bio: Aspiring entrepreneur and Electrical and Computer Engineer. A human in the making.
         external-image: false
         picture: assets/images/profile.jpg
         twitter: GoncaloRN
