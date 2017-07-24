@@ -1,4 +1,4 @@
-# gorbyy.github.io
+# gorbyy.github.io/grn-dot-pt
 Simple website made with Jekyll
 
 ## Setup
