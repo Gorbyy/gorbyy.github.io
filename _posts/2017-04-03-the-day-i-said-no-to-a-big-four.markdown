@@ -24,7 +24,7 @@ externalLink: false
 star: false
 ---
 
-![No Big Four](http://grn.pt/assets/images/no_big_four.png)
+![No Big Four]({{ site.url }}/assets/images/no_big_four.png)
 
 Every year tons of college graduates debate with relatives and friends about what should be their first steps into the job market. Except for a very small handful, here in Portugal the majority of engineering grads will end up with a consultancy company, most probably a [Big Four](https://en.wikipedia.org/wiki/Big_Four_accounting_firms). I don’t condemn this, however, there are more options available to those willing to pursue them.
 
