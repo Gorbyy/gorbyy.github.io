@@ -1,17 +1,24 @@
 #jekyll-seo-tag gem variables
 title: GRN
+description: I'm Gonçalo Rodrigues Nunes, aspiring entrepreneur and Electrical and Computer Engineer. A human in the making.
+twitter:
+  username: GoncaloRN
+logo: assets/images/grn.jpg
+social:
+  links:
+    - https://www.instagram.com/goncalorodriguesnunes/
+    - https://www.linkedin.com/in/goncalorodriguesnunes
+    - https://twitter.com/goncalorn
 
 # main text of home
 name: Gonçalo Rodrigues Nunes
 bio: Aspiring entrepreneur and Electrical and Computer Engineer. A human in the making.
 
 # twitter summary info
-description: Aspiring entrepreneur and Electrical and Computer Engineer. A human in the making.
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
 
 # your url: http://USERNAME.github.io
 url: http://grn.pt
@@ -33,7 +40,7 @@ disqus: false
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-twitter: GoncaloRN
+#twitter: GoncaloRN
 # google: mygoogle
 instagram: GoncaloRodriguesNunes
 # pinterest: mypinterest
@@ -53,7 +60,7 @@ authors:
         name: Gonçalo Rodrigues Nunes
         bio: Aspiring entrepreneur and Electrical and Computer Engineer. A human in the making.
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/grn.jpg
         twitter: GoncaloRN
 
 # do you want a larger site? change the option below
