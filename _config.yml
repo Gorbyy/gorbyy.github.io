@@ -14,8 +14,6 @@ social:
 name: Gonçalo Rodrigues Nunes
 bio: Aspiring entrepreneur and Electrical and Computer Engineer. A human in the making.
 
-# twitter summary info
-
 # if it's an external image, update below for true
 # better with square images
 external-image: false
@@ -40,7 +38,7 @@ disqus: false
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
-#twitter: GoncaloRN
+#twitter: set on jekyll-seo-tag variables
 # google: mygoogle
 instagram: GoncaloRodriguesNunes
 # pinterest: mypinterest
@@ -103,12 +101,8 @@ sass:
 
 plugins:
   - jemoji
-  - jekyll-mentions
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-paginate
-
-jekyll-mentions:
-    base_url: https://github.com
