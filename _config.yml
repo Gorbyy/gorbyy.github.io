@@ -19,7 +19,7 @@ bio: Aspiring entrepreneur and Electrical and Computer Engineer. A human in the 
 external-image: false
 
 # your url: http://USERNAME.github.io
-url: http://grn.pt
+url: https://gorbyy.github.io
 
 permalink: /:title/
 
@@ -27,7 +27,7 @@ markdown: kramdown
 highlighter: rouge
 
 # To enable google analytics, supply your token below
-analytics-google: 'UA-90374249-1'
+# analytics-google: 'UA-90374249-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
